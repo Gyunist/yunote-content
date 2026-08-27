@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "masterPath": "src/Welcome to Milkdown.md",
+  "updatedAt": "2026-08-12T17:05:55.117Z",
+  "sections": [
+    {
+      "id": "root-1odj7b9",
+      "ordinal": 0,
+      "title": "Welcome to Milkdown",
+      "level": 1,
+      "prefix": "",
+      "documentPath": "src/Welcome to Milkdown.md",
+      "folderRelative": "",
+      "resourcePath": "src/Welcome to Milkdown"
+    },
+    {
+      "id": "root-1odj7b9-13r282m",
+      "ordinal": 1,
+      "title": "Features",
+      "level": 2,
+      "prefix": "\n\n",
+      "documentPath": "src/Welcome to Milkdown/Features.md",
+      "folderRelative": "Features",
+      "resourcePath": "src/Welcome to Milkdown/Features"
+    },
+    {
+      "id": "root-1odj7b9-lihr0f",
+      "ordinal": 2,
+      "title": "Code Example",
+      "level": 2,
+      "prefix": "\n\n",
+      "documentPath": "src/Welcome to Milkdown/Code Example.md",
+      "folderRelative": "Code Example",
+      "resourcePath": "src/Welcome to Milkdown/Code Example"
+    }
+  ],
+  "layout": null
+}
